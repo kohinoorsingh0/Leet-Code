@@ -91,7 +91,7 @@ Thu  ░░░░░░░░░░░░░░░ 0
 
 ## 🌐 LeetCode Profile Stats
 
-_Live stats unavailable right now (set `LEETCODE_USERNAME` and ensure network access to fetch these automatically)._
+_Live stats unavailable right now (set `Kohinoor007` and ensure network access to fetch these automatically)._
 
 ---
 

@@ -1,8 +1,9 @@
-// ==================================================
-// Question No. 02
-// Topic: Arrays
+// LeetCode 1
+// Two Sum
 // Difficulty: Easy
-// Problem: Two Sum
+// Time: O(n)
+// Space: O(n)
+// Tags: Array, HashMap
 // ==================================================
 
 // Problem:
