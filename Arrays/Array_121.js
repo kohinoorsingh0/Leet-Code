@@ -1,8 +1,8 @@
 // LeetCode 121 - Best Time to Buy and Sell Stock
 // Difficulty: Easy
 // Topic: Array
-// Language: JavaScript
-// Status: Accepted
+
+
 
 /*
 Problem:
