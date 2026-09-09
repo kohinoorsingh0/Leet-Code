@@ -1,3 +1,1 @@
-else{
-    //     product = product * nums[i]
-    // }
+temp[i] = new Array()
