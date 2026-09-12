@@ -1,1 +1,2 @@
-temp[i] = new Array()
+
+shortestToChar("loveleetcode", "e")
