@@ -1,2 +1,0 @@
-
-shortestToChar("loveleetcode", "e")
